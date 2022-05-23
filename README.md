@@ -1,5 +1,4 @@
 <p align="center">
-    ### Hi there 👋
     <a href="https://shubhammehra.netlify.app"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/1801-shubham-mehra/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mehrashubham18@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -7,8 +6,8 @@
 </p>
 
 <p align="center">
-- 👋 Hi, I’m Shubham Mehra @shubham-spreadd
-- 👀 I’m currently interested in Javascript & MMA 🤼‍♂️.
-- 🌱 I’m currently working on Relay & MERN.
-- 📫 How to reach me --> shubham.mehra@spreadd.io
+    <p>👋 Hi, I’m Shubham Mehra @shubhmehra</p> 
+    <p>👀 I’m currently interested in Javascript & MMA 🤼‍♂️.</p>
+    <p>🌱 I’m currently working on Relay & MERN.</p>
+    <p>📫 How to reach me --> mehrashubham18@gmail.com</p>
 </p>
