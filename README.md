@@ -5,9 +5,7 @@
   <a href="https://x.com/_shubham_dev"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
 </p>
 
-# Hi, I'm Shubham Mehra! 👋
-
-## 🚀 Associate Tech Lead | Full-Stack Engineer (MERN) | UX-Focused Software Architect
+## 🚀 Tech Lead | Full-Stack Engineer (MERN) | UX-Focused Software Architect
 
 🔹 Passionate about building scalable, high-performance applications with a strong focus on **UX, Microservices, and DevOps**. With over **5+ years of full-stack development experience** and **3+ years leading AdTech innovations**, I specialize in creating **cost-optimized cloud solutions** and **seamless user experiences**.
 
