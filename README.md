@@ -17,7 +17,7 @@ Open to remote roles in distributed systems, backend architecture, and AI integr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & Architecture
 - **Temporal.io** — workflow orchestration, continueAsNew, defineQuery, per-tenant scheduling
@@ -42,7 +42,7 @@ Open to remote roles in distributed systems, backend architecture, and AI integr
 
 ---
 
-## 👨‍💻 Experience
+## Experience
 
 ### Tech Lead — Spreadd.io *(Nov 2021 – Present)*
 B2B influencer marketing SaaS — brands, agencies, creators across Instagram, YouTube, TikTok, Twitter.
@@ -59,7 +59,7 @@ B2B influencer marketing SaaS — brands, agencies, creators across Instagram, Y
 
 ---
 
-## 🔨 Public Projects
+## Public Projects
 
 ### [insights-etl](https://github.com/shubhmehra/insights-etl)
 Multi-tenant analytics ETL with Temporal.io workflow orchestration.
@@ -70,9 +70,10 @@ Multi-tenant analytics ETL with Temporal.io workflow orchestration.
 
 ---
 
-## 🎓 Education
-🎓 **B.E. in Information Technology** — Gujarat Technological University *(2017)*
-📜 **Advanced Certification in Persuasive UX Strategy** — IIT Delhi *(2024)*
+## Education
+**B.E. in Information Technology** — Gujarat Technological University *(2017)*
+
+**Advanced Certification in Persuasive UX Strategy** — IIT Delhi *(2024)*
 
 ---
 
