@@ -51,7 +51,7 @@ B2B influencer marketing SaaS — brands, agencies, creators across Instagram, Y
 - Kafka async analytics ingestion; MongoDB distributed rate-limit ledger across container replicas
 - 13+ time-series analytics collections; per-user Socket.io rooms; 4 notification channels
 - Shared npm library at v5.2.0; 9 background cron jobs; RSA replay-attack prevention
-- **KidsGuru** — AI edtech platform (React Native + Gemini Live API + WebRTC): 10ms PCM frame pacer, 45s ring buffer, sub-500ms first-audio latency, FSM for streaming session lifecycle
+- AI edtech platform (React Native + Gemini Live API + WebRTC): 10ms PCM frame pacer, 45s ring buffer, sub-500ms first-audio latency, FSM for streaming session lifecycle
 
 ### Web Developer — Allies Business Hub *(Jul 2020 – Nov 2021)*
 - Next.js e-commerce platforms with payment gateway, cart, and REST API integrations
@@ -67,6 +67,15 @@ Multi-tenant analytics ETL with Temporal.io workflow orchestration.
 - `defineQuery` for live in-flight workflow introspection — no polling, no external state store
 - 11 workflows · per-tenant isolated scheduling · dual-layer graceful timeout
 - Full test suite with `TestWorkflowEnvironment` · TypeScript · PostgreSQL
+
+### [Warehouse Robot Analytics](https://github.com/shubhmehra/warehouse-robot-analytics)
+Shift-end pick-performance reporting for warehouse sortation robots.
+- An AWS Lambda runs 3× per day (at the end of each 8-hour shift)
+- Queries MongoDB for robot telemetry
+- Generates an Excel report
+- Adds an AI-written shift summary via Gemini
+- Archives to S3, and sends via SES email.
+- Full test suite with · TypeScript · MongoDB
 
 ---
 
